@@ -29,3 +29,9 @@ We are protecting children.
 
 Launch date: 24 November 2025  
 Status: Live and reporting
+
+## Quick Start
+
+Clone: `git clone https://github.com/nomorethreat/nomorethreat.git`  
+Install: `pip install playwright imagehash transformers; playwright install`  
+Run: `python src/scraper.py https://brandarmy.com/public-example`  # Flags grooming/CSAM previews, hashes for reports
